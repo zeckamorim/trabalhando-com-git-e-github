@@ -1,0 +1,18 @@
+body{
+    color:white;
+    background-color: black;
+    font-size: 12px;
+    border-radius: 50px;
+    box-shadow: inset;color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h1{
+    color: blanchedalmond;
+
+}
+h2{
+    color: aqua;
+    box-shadow: inset;
+    
+}
